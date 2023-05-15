@@ -7,6 +7,7 @@ CRUD приложение электронная библиотека
 - пагинация книг
 - сортировка книг по году выпуска
 - поиск книг по названию
+- валидация книг
 
 Стэк: Java, Hibernate, PostgreSQL, Spring Boot, 
 Spring Data JPA, Hibernate, HTML, Thymeleaf,
